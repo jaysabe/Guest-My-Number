@@ -14,7 +14,8 @@ Your highscore will be updated if you beat your previous score.
 If your guess is incorrect, you will receive hints to guess higher or lower.
 Your score will decrease with each incorrect guess.
 Keep playing until you guess the correct number or run out of attempts.
-<h4>Resetting the Game</h4>
+
+<h3>Resetting the Game</h3>
 To reset the game and start over:
 
 Click the "Again!" button at the top of the page.
