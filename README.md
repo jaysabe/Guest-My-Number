@@ -21,6 +21,7 @@ To reset the game and start over:
 Click the "Again!" button at the top of the page.
 The game will reset to its initial state with a new random number to guess.
 <h3>Game Rules</h>
+
 The secret number is a random integer between 1 and 20.
 You have 20 attempts to guess the correct number.
 If you guess correctly, you win the game and can set a highscore.
