@@ -2,14 +2,6 @@
 <div>
   <p>Welcome to the "Guess My Number" game! This simple JavaScript game allows you to guess a secret number between 1 and 20. You have 20 chances to guess the correct number and set a highscore. Try your luck and enjoy the game!
 
-### Table of Contents
-[Description](##Description)
-[Usage](##Usage)
-Resetting the Game
-Game Rules
-Technologies Used
-Contributing
-
 ## Description
 This game is built using JavaScript and HTML. It demonstrates DOM manipulation and event handling to create an interactive guessing game. The game generates a random secret number between 1 and 20, and your task is to guess that number within 20 attempts.
 
